@@ -1,3 +1,15 @@
 Teclado;150.0;Logitech
 Mouse;99.9;Razer
 Monitor;1200.5;Samsung
+Headset;299.0;HyperX
+Webcam;349.9;Logitech
+Cadeira Gamer;899.0;ThunderX3
+Mousepad;79.9;SteelSeries
+HD Externo;459.0;Seagate
+SSD;599.9;Kingston
+Gabinete;750.0;Cooler Master
+Fonte;429.9;Corsair
+Placa de Vídeo;2899.0;NVIDIA
+Processador;1899.0;AMD
+Memória RAM;499.9;Crucial
+Placa-Mãe;1049.0;ASUS
