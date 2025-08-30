@@ -1,0 +1,3 @@
+Teclado;150.0;Logitech
+Mouse;99.9;Razer
+Monitor;1200.5;Samsung
