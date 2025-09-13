@@ -33,9 +33,6 @@ public class App {
             default:
                 throw new AssertionError();
         }
-        List<Conta> contas;
-        contas = dao.lerTodas();
-        System.out.println(contas);
         
     }
 
