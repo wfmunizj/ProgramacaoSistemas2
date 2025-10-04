@@ -1,0 +1,8 @@
+POST https://jsonplaceholder.typicode.com/todos 
+Content-Type: application/json
+
+{
+  "userId": 1,
+  "title": "New Todo",
+  "completed": false
+}
